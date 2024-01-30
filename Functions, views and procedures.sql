@@ -1,8 +1,3 @@
-Create table Kategorijaa(
-    id_kategorije int,
-    naziv_kategorije nvarchar(50)
-);
-
 Alter table Dobavljač
 Add datum_rodjenja date
 
