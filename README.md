@@ -1,6 +1,8 @@
-# Sales-Database
-Microsoft server database example about sales.
-In this project all names of tables and everything else is on my native language Serbian.
+# 📊 Sales Database
+This project showcases a Microsoft SQL Server database example focused on sales, with all table names and other elements presented in my native language, Serbian.
 
-I have here 2 sql files, one for creating a Database and the other one you can tell by the name.
-I've also uploaded my Project work description as a Word document.
+## 🗂 Project Contents
+Database Creation Script: An SQL file for setting up the entire database structure.
+Additional SQL Script: Includes further operations or data manipulations, clearly indicated by the file name.
+Project Documentation: A comprehensive Word document detailing the project work and design.
+This project serves as a practical example of a sales database, offering insights into database creation and management using SQL Server.
